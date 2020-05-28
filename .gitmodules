@@ -1,0 +1,3 @@
+[submodule "mornington-crescent-game-archive"]
+	path = mornington-crescent-game-archive
+	url = https://github.com/pete-rai/mornington-crescent-game-archive.git
