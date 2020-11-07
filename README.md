@@ -1,6 +1,5 @@
 # Mornington Crescent Analysis
-Simple analysis of Morning Crescent dataset.
-Finds,
+Based on data from [Mornington Crescent Game Archive](https://github.com/pete-rai/mornington-crescent-game-archive). The analysis finds,
 * Number of moves in the shortest (and longest) games.
 * Stations which are most (and least) often the last station visited before MC.
 #### Running the stats
